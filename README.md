@@ -8,8 +8,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ---
 
-![Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-hiepnguyen1&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiepNP0901&show_icons=true&theme=radical" alt="Hiep's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-hiepnguyen1&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st-hiepnguyen1&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HiepNP0901&theme=radical" alt="GitHub Trophy" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=st-hiepnguyen1&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiepNP0901&layout=compact&theme=radical" alt="Top Langs" />
+</p>
