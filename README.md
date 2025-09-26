@@ -13,9 +13,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=st-hiepnguyen1&theme=radical" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-hiepnguyen1&layout=compact&theme=radical" alt="Top Langs" />
 </p>
